@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>HAMMAD CAR HIRING</title>
+  </head>
+  <body>
+    <link rel="stylesheet" href="styles.css">
+    <img src="La Illaha.jpeg" alt="picture">
+    <br>
+    <img src="Mamoon's Image.png" length="300px" width="300px" alt="Hammad Profile Picture">
+    <h1>Welcome to Hammad Car Hiring Service.</h1>
+    <p>All kinds of cars are available at phone call.<br>Contact Me on WhatsApp: <b>0333-8482430</b><br> Address: <a href="https://www.google.com/maps/place/Stop+and+Shop/@32.6090651,74.0882343,19.53z/data=!4m9!1m2!2m1!1schowk+Madina+Syedan,+Gujrat!3m5!1s0x391f055201e87f23:0x3dac64335cff2eb2!8m2!3d32.6089163!4d74.0880893!16s%2Fg%2F11r5t8hzs_">Chowk Madina Syedan, Gujrat</a></p>
+    <img src="LandCruiser.jpeg" alt="Car-image 1">
+    <br>
+    <a href="https://www.caranddriver.com/toyota/land-cruiser">Toyota Land Cruiser</a>
+    <hr>
+    <img src="Toyota Hiace.jpeg" alt="Car-image 2">
+    <br>
+    <a href="https://www.toyota.com.sg/showroom/new-models/hiace-van">Toyota Hiace</a>
+    <hr>
+    <img src="Honda City.jpeg" alt="Car-image 3">
+    <br>
+    <a href="https://www.hondacarindia.com/honda-city-5th-generation">Honda City</a>
+    <hr>
+    <img src="Honda Freed.jpeg" alt="Car-image 4">
+    <br>
+    <a href="https://carfromjapan.com/specifications/honda/freed/5816a26a2afaa2c4b2870431">Honda Freed</a>
+    <hr>
+  </body>
+</html>
